@@ -1,0 +1,193 @@
+body {
+    font-family: "Montserrat", monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", monospace;
+    font-weight: bold;
+}
+
+.normal-heading {
+    font-size: 2rem;
+    line-height: 1;
+}
+
+.big-heading {
+    font-size: 3.0rem;
+    line-height: 1.5;
+}
+
+/* Title | Navigation Section */
+
+
+
+.testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.navbar-item:hover {
+    font-weight: bold;
+}
+
+.feature-box:hover p {
+    color: white;
+}
+
+/* Feature Section */
+#title {
+    background-color: darksalmon;
+}
+
+.col {
+    border: 1px solid black;
+}
+
+
+.container-fluid {
+    padding: 3% 15%
+}
+
+.download-button {
+    margin: 10% 3%;
+
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+}
+
+.navbar-item {
+    font-size: 1.2rem;
+    padding: 0px 18px;
+}
+
+/* Title Image */
+.title-image {
+    width: 60%;
+    transform: rotate(30deg);
+    position: relative;
+    left: 20%;
+    top: 10rem;
+}
+
+/* featture-values */
+#features {
+    padding: 7% 15%;
+    position: relative;
+    background-color: white;
+    z-index: 1;
+
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.feature-box p {
+    color: #8f8f8f;
+}
+
+
+
+.feature-box:hover {
+    background-color: darksalmon;
+    color: white;
+    border-radius: 2rem;
+}
+
+
+
+/* Testimonial Section */
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: darksalmon;
+    color: #fff;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-item img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-item h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Press Section */
+#press {
+    background-color: darksalmon;
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+#press img {
+    width: 15%;
+    margin: 20px 20px 0px 0px;
+}
+
+/* Pricing */
+
+#pricing {
+    padding: 7% 10%;
+    text-align: center;
+}
+
+.price-text {
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+#pricing .card {
+
+    margin: 1.5% auto 1.5% auto;
+    margin-top: 2rem;
+
+}
+
+.pricing .card .btn {
+    width: 100%;
+}
+
+/* Footer */
+#cta {
+    background-color: darksalmon;
+    text-align: center;
+    padding: 4% 8%;
+    text-align: center;
+}
+
+#cta .download-button {
+    margin: 1% 6%;
+
+}
+
+@media (max-width:988px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
