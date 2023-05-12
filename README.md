@@ -3,10 +3,7 @@
 
 TinDog is a practice static website built using the Bootstrap framework. The website is designed to be a responsive and visually appealing landing page for a fictional mobile dating app for dogs. 
 
-# You Can Visit This WebSite https://kashif-kamran.github.io/TinDog/
-```
-https://kashif-kamran.github.io/TinDog/
-```
+# Site: https://kashif-kamran.github.io/TinDog/
 
 ## Features
 
