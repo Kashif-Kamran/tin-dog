@@ -1,5 +1,5 @@
 
-# tin-dog-ui
+# Tin Dog
 
 TinDog is a practice static website built using the Bootstrap framework. The website is designed to be a responsive and visually appealing landing page for a fictional mobile dating app for dogs. 
 
